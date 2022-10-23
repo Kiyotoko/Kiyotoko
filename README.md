@@ -1,1 +1,0 @@
-This repository contains banners and infos from my private profiles.
