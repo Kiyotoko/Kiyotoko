@@ -1,0 +1,16 @@
+.markdown-preview-section h1 {
+  text-align: center;
+}
+
+.markdown-preview-section table {
+  width: 100%;
+  table-layout: fixed;
+}
+
+.markdown-preview-section th {
+  background-color: dimgray;
+}
+
+.markdown-preview-section tr:nth-child(odd) {
+  background-color: rgb(220, 220, 220);
+}
