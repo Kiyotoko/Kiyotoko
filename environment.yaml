@@ -1,0 +1,11 @@
+name: karlz
+dependencies:
+  - pip
+  - python
+  - pip:
+    - tqdm
+    - markdown
+    - pymdown-extensions
+    - imgkit
+    - html2image
+    - htmlwebshot
