@@ -9,4 +9,4 @@ OPTIONS = {
     'height': 540
 }
 
-REPOSITORY = 'https://raw.githubusercontent.com/karl-zschiebsch/karl-zschiebsch/'
+REPOSITORY = 'https://raw.githack.com/karl-zschiebsch/karl-zschiebsch/master/'

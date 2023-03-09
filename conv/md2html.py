@@ -15,7 +15,7 @@ def md2html(inp: str, out: str, ext: list[str] = EXTENSIONS, css: list[str] = ST
 
 
 def parse_css(css: str) -> str:
-    return '<link rel="stylesheet" href="'+REPOSITORY+css+'">'
+    return '<link rel="stylesheet" href="'+REPOSITORY+'/'+css+'">'
 
 
 def parse_html(heads: list = [], bodies: list = []):
