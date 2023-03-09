@@ -1,12 +1,12 @@
 import os
 import argparse
 import tqdm
-import scripts
+from conv import md2html, md2jpg
 
 
 CONVERTERS = {
-    'md2html': (scripts.md2html, lambda f: f.replace('.md', '.html')),
-    'md2jpg': (scripts.md2jpg, lambda f: f.replace('.md', '.jpg'))
+    'md2html': (md2html.md2html, lambda f: f.replace('.md', '.html')),
+    'md2jpg': (md2jpg.md2jpg, lambda f: f.replace('.md', '.jpg'))
 }
 
 
@@ -27,8 +27,17 @@ def main():
     parser.add_argument("input_location")
     parser.add_argument("output_location")
     parser.add_argument("--converter", default="md2html")
+    parser.add_argument(
+        "-W", "--width",
+        default=540,
+        type=int
+    )
+    parser.add_argument(
+        "-H", "--height",
+        default=380,
+        type=int
+    )
     args = parser.parse_args()
-
     lookup(args.input_location, args.output_location, args.converter)
 
 
