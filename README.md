@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Karl</h1>
 
 <p align="center">
-<img src="https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=AniList&logoColor=white" alt="Anilist">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white
-" alt="Steam">
-<img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white
-" alt="Obsidian">
-<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white
-" alt="Rasberry Pi">
+<a href="https://anilist.co/user/Thetheus/">
+<img src="badges/Anilist.svg" alt="Anilist">
+</a>
+<img src="badges/Discord.svg" alt="Discord">
+<img src="badges/Steam.svg" alt="Steam">
+<a href="https://github.com/karl-zschiebsch/vault">
+<img src="badges/Obsidian.svg" alt="Obsidian">
+</a>
+<img src="badges/RasberryPi.svg" alt="Rasberry Pi">
 </p>
 
 <p align="center">
