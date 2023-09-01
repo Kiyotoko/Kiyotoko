@@ -13,6 +13,6 @@
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karl-zschiebsch&theme=tokyonight" alt="Github Profile Summary">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karl-zschiebsch&theme=tokyonight&layout=compact&langs_count=10">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kiyotoko&theme=tokyonight" alt="Github Profile Summary">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiyotoko&theme=tokyonight&layout=compact&langs_count=10">
 </p>
