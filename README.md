@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karl
 </h1>
 
-![Banner](banner_1.png)
+![Banner](Banner.png)
 
 <p align="center">
 <a href="https://anilist.co/user/Thetheus/">
