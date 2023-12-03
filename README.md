@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karl
 </h1>
 
-![Banner](Banner.png)
-
 <p align="center">
 <a href="https://anilist.co/user/Thetheus/">
 <img src="badges/Anilist.svg" alt="Anilist">
