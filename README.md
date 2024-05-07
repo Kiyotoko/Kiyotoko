@@ -27,7 +27,8 @@ Directions
 ----------
 
 1. Preheat oven to 350°. In a large saucepan, melt chocolate chips and
-   butter over low heat, stirring until smooth. Remove from heat; cool until mixture is warm.
+   butter over low heat, stirring until smooth. Remove from heat; cool
+   until mixture is warm.
 2. In a small bowl, whisk the eggs, sugar, vanilla and, if desired,
    espresso powder until blended. Whisk into chocolate mixture. In another
    bowl, mix the flour, baking powder and salt; add to chocolate mixture,
