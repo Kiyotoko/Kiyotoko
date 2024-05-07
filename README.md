@@ -26,9 +26,16 @@ Ingredients
 Directions
 ----------
 
-1. Preheat oven to 350°. In a large saucepan, melt chocolate chips and butter over low heat, stirring until smooth. Remove from heat; cool until mixture is warm.
-2. In a small bowl, whisk the eggs, sugar, vanilla and, if desired, espresso powder until blended. Whisk into chocolate mixture. In another bowl, mix the flour, baking powder and salt; add to chocolate mixture, mixing well. Fold in chocolate chunks; let stand until mixture thickens slightly, about 10 minutes.
-3. Drop by 1/4 cupfuls 3 in. apart onto parchment-lined baking sheets. Bake until set, 12-14 minutes. Cool on pans 1-2 minutes. Remove to wire racks to cool.
+1. Preheat oven to 350°. In a large saucepan, melt chocolate chips and
+   butter over low heat, stirring until smooth. Remove from heat; cool until mixture is warm.
+2. In a small bowl, whisk the eggs, sugar, vanilla and, if desired,
+   espresso powder until blended. Whisk into chocolate mixture. In another
+   bowl, mix the flour, baking powder and salt; add to chocolate mixture,
+   mixing well. Fold in chocolate chunks; let stand until mixture thickens
+   slightly, about 10 minutes.
+3. Drop by 1/4 cupfuls 3 in. apart onto parchment-lined baking sheets.
+   Bake until set, 12-14 minutes. Cool on pans 1-2 minutes. Remove to wire
+   racks to cool.
 ```
 
 <details>
