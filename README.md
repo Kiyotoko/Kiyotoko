@@ -8,6 +8,10 @@
 
 ## Brownie Cookies 🍪
 
+<!--
+All credits for the recipe goes to https://www.tasteofhome.com/recipes/jumbo-brownie-cookies/! Check out their amazing cookies!
+-->
+
 ```md
 Ingredients
 -----------
@@ -40,7 +44,7 @@ Directions
 ```
 
 <details>
-    <summary>GitHub Stats ✨</summary>
+    <summary><h2>GitHub Stats ✨</h2></summary>
     <p align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kiyotoko&theme=tokyonight" alt="Github Profile Summary">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiyotoko&theme=tokyonight&layout=compact&langs_count=10" alt="Github Langs">
