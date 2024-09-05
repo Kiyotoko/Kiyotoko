@@ -3,16 +3,23 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=git,maven,gradle,linux,java,kotlin,python,latex,markdown" alt="Skill Icons" />
     <br>
+    <i>I am a passionate Java developer and Star Wars enjoyer.</i>
+    <br>
     <img src="https://media1.tenor.com/m/h8ESfI_EBaQAAAAC/star-wars-general-grievous.gif" alt="General Kenobi!">
 </div>
 
-## Brownie Cookies 🍪
-
 <!--
-All credits for the recipe goes to https://www.tasteofhome.com/recipes/jumbo-brownie-cookies/! Check out their amazing cookies!
--->
 
-```md
+I'm leaving this recipe for everyone who loves cookies as much as I do. If you're reading this, I hope you try it and enjoy it!
+
+All credits for the recipe goes to https://www.tasteofhome.com/recipes/jumbo-brownie-cookies/! Check out their amazing cookies!
+
+
+```rst
+==================
+Brownie Cookies 🍪
+==================
+
 Ingredients
 -----------
 
@@ -42,6 +49,9 @@ Directions
    Bake until set, 12-14 minutes. Cool on pans 1-2 minutes. Remove to wire
    racks to cool.
 ```
+
+-->
+
 
 <details>
     <summary><h2>GitHub Stats ✨</h2></summary>
