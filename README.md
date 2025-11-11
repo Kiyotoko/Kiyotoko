@@ -56,7 +56,7 @@ Directions
 <details>
     <summary><h2>GitHub Stats ✨</h2></summary>
     <p align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kiyotoko&include_orgs=true&theme=tokyonight" alt="Github Profile Summary">
-        <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Kiyotoko&include_orgs=true&theme=tokyonight&layout=compact&langs_count=10" alt="Github Langs">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kiyotoko&include_orgs=true&theme=tokyonight" alt="Github Profile Summary"><br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kiyotoko&include_orgs=true&theme=tokyonight&layout=compact&langs_count=10" alt="Github Langs">
     </p>
 </details>
